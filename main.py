@@ -1,5 +1,5 @@
-import math
-
-a=float(input('Enter a:'))
-b=float(input('Enter b '))
-print(f'{a%b}')
+a = float(input('num1:'))
+b = float(input('num2:'))
+c = float(input('num3:'))
+print(f' Sum = {a+b+c}')
+print(f' Mul = {a*b*c}')
